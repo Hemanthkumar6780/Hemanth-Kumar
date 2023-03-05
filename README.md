@@ -10,7 +10,7 @@ Inspired as a Writer - Driven by Entrepreneurship - Qualified as a Computer Scie
  
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
- 👨‍💻 All of my projects are available at **[My Portfolio](https://immanuvelprathap.in/)**
+ 👨‍💻 All of my projects are available at **[My Portfolio]([https://github.com/Hemanthkumar6780]/)**
 
 - 📫 How to reach me **pallehemanthkumar2725@gmail.com**
 
